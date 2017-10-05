@@ -6,5 +6,5 @@ def display_board(cels)
   puts "-----------"
   puts " # {cels[3]} | #{cels[4]} | #{cels[5]} "
   puts "-----------"
-  puts  "#{cels[6]} | #{cels[7]} | #{cels[8]} "
+  puts " #{cels[6]} | #{cels[7]} | #{cels[8]} "
 end
